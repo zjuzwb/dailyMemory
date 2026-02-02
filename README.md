@@ -12,5 +12,7 @@ Pre-train model：
       We extend the MAE beyond vanilla ViT to improve its generalizability, as well as enable pretrained 2D encoders directly deployed on volume data.
       We develop Frepa on 17 million images and validated it on 32 downstream tasks for both 2D and 3D data, without requiring fine-tuning.
       Extensive experiments demonstrate that Frepa outperforms SOTA methods on most downstream tasks, particularly those involving fine-grained information. Frepa also exhibits exceptional performance on previously unseen modalities.
-<img width="2439" height="1312" alt="image" src="https://github.com/user-attachments/assets/d5c066d3-15c0-435f-8f65-482b1ba1349c" />
+      <img width="2439" height="1312" alt="image" src="https://github.com/user-attachments/assets/d5c066d3-15c0-435f-8f65-482b1ba1349c" />
+      <img width="1292" height="638" alt="image" src="https://github.com/user-attachments/assets/819eb164-c11f-43b9-9837-f580f582e5d1" />
+
 
