@@ -3,7 +3,8 @@
 1. https://www.slicer.org/
 2. https://github.com/arcadelab/FastSAM3D_slicer
 3. https://github.com/arcadelab/FastSAM3D_slicer/tree/main
-
+dataset：
+1. https://github.com/NeelBhowmik/xray
 Pre-train model：
 1. Improving Representation of High-frequency Components for Medical Foundation Models
       Frepa is proposed to address the limitations of previous medical foundation models in representing fine-grained information and high-frequency components. Frepa demonstrates that even when using a vanilla Vision Transformer (ViT), foundation models can learn more fine-grained representations through a frequency dual-component masking strategy. Additionally, the equal-histogram image-domain masking extends the Masked Autoencoder (MAE) beyond ViT to other architectures, such as scale-feature networks (e.g., Swin Transformer) and convolutional networks, without requiring modifications to the pretraining pipeline.      
